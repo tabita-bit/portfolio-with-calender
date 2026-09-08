@@ -17,7 +17,7 @@ A personal portfolio website built with HTML, CSS, and vanilla JavaScript. Inclu
 ## Project Structure
 
 ```
-Portfolio/
+Portfolio-with-calender/
 ├── image/           # Directory containing images used in the portfolio.
 │   └── woman.jpg    # Profile image used in the portfolio.
 ├── README.md        # Documentation and information about the project.
