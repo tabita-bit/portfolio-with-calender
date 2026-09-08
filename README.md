@@ -15,7 +15,7 @@ A personal portfolio website built with HTML, CSS, and vanilla JavaScript. Inclu
 - JavaScript (DOM manipulation, Date object)
 
 ## Run Locally
-Just open `index.html` in any browser — no build step or dependencies required.
+Just open `index.html` in any browser. No build step or dependencies required.
 
 ## Author
 Tabita Mali — [github.com/tabita-bit](https://github.com/tabita-bit)
