@@ -18,11 +18,11 @@ A personal portfolio website built with HTML, CSS, and vanilla JavaScript. Inclu
 
 ```
 Portfolio/
-├── image/           #Directory containing images used in the portfolio.
-│   └── woman.jpg    #Profile image used in the portfolio.
-├── README.md        #Documentation and information about the project.
-├── index.html       #Main HTML file containing the portfolio structure and content.
-└── style.css        #Stylesheet responsible for the layout, colors, typography, responsiveness, and overall design.
+├── image/           # Directory containing images used in the portfolio.
+│   └── woman.jpg    # Profile image used in the portfolio.
+├── README.md        # Documentation and information about the project.
+├── index.html       # Main HTML file containing the portfolio structure and content.
+└── style.css        # Stylesheet responsible for the layout, colors, typography, responsiveness, and overall design.
 ```
 
 ## Run Locally
